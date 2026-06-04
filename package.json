@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "dev": "node server.js",
+    "preview": "node server.js"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
